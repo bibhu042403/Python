@@ -1,5 +1,5 @@
 lower = 900
-upper = 1000
+upper = 1200
 
 print("Prime numbers between", lower, "and", upper, "are:")
 
