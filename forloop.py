@@ -39,5 +39,17 @@ for item in d.items():
     print(item)
 for key,values in d.items():
     print(values)
+print('\n')
 
+name='bibhu'
+for item in name:
+    if item=='i':
+        continue
+    print(item)
+print('\n')
+
+for item in name:
+    if item=='i':
+        break
+    print(item)
 
