@@ -1,0 +1,7 @@
+file=open('pycharm.txt','w')
+file.write('this is the write command')
+file.write('It allows us to write in a particular file')
+file.close()
+file=open('pycharm.txt')
+print(file.readlines())
+print(pwd)
