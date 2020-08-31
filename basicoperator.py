@@ -11,3 +11,7 @@ print(nm)# this number will be string
 print(type(nm))
 print(float(nm))
 print(int(nm))
+print('conversion problem:')
+celcius=[0,10,20,34,35.5]
+farenheit= [((9/5)*temp + 32) for temp in celcius]
+print(farenheit)

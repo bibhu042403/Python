@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ac02d3-2513-4956-b7a4-260fa4acb125" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basicoperator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicoperator.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicoperator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +30,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/list.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/basicoperator.py" />
   </component>
   <component name="RunManager">
-    <configuration name="list" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="basicoperator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,7 +45,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicoperator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598887873090</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="basic while loop problems">
+      <created>1598889179933</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1598889179933</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -181,38 +187,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="basic while loop problems" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598888729712">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598890183305">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1598888729711" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1598887872190">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1598890183305" />
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1598889179115">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598887872190" />
-    <state x="516" y="94" key="FileChooserDialogImpl" timestamp="1598888728104">
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598889179115" />
+    <state x="516" y="94" key="FileChooserDialogImpl" timestamp="1598890182051">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="516" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598888728104" />
-    <state width="308" height="160" key="GridCell.Tab.0.bottom" timestamp="1598889156880">
+    <state x="516" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598890182051" />
+    <state width="308" height="160" key="GridCell.Tab.0.bottom" timestamp="1598890185448">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="308" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598889156880" />
-    <state width="308" height="160" key="GridCell.Tab.0.center" timestamp="1598889156880">
+    <state width="308" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598890185448" />
+    <state width="308" height="160" key="GridCell.Tab.0.center" timestamp="1598890185448">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="308" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598889156880" />
-    <state width="308" height="160" key="GridCell.Tab.0.left" timestamp="1598889156880">
+    <state width="308" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598890185448" />
+    <state width="308" height="160" key="GridCell.Tab.0.left" timestamp="1598890185448">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="308" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598889156880" />
-    <state width="308" height="160" key="GridCell.Tab.0.right" timestamp="1598889156880">
+    <state width="308" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598890185448" />
+    <state width="308" height="160" key="GridCell.Tab.0.right" timestamp="1598890185448">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="308" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598889156880" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1598887874681">
+    <state width="308" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598890185448" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1598889181563">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598887874681" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598889181563" />
     <state x="656" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1598883917668">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
