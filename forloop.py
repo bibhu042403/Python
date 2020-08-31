@@ -74,7 +74,7 @@ for index,letter in enumerate(word):
 
 mylist=[1,2,3]
 mylist1=['a','b','c']
-mylist2=[100,200,300]
+mylist2=[100,200,400]
 zip(mylist,mylist1,mylist2)
 for item in zip(mylist,mylist1):
     print(item)
