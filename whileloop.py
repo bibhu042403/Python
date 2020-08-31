@@ -11,3 +11,10 @@ while y<10:
         break
     print(y)
     y +=1
+print("\n")
+
+z=10
+for i in range(0,z):
+    if i==8:
+        continue
+    print(i)

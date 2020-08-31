@@ -52,4 +52,32 @@ for item in name:
     if item=='i':
         break
     print(item)
+print("\n")
+
+#print even number using for loop
+for num in range(0,10,2):#here the third number 2 shows the print gap of 2
+    print(num)
+print('\n')
+index_count=0
+for letter in 'abcde':
+    print('At index {} the letter is {}'.format(index_count,letter))
+    index_count +=1
+
+word='abcde'
+for item in enumerate(word):
+    print(item)
+
+for index,letter in enumerate(word):
+    print(index)
+    print(letter)
+    print('\n')
+
+mylist=[1,2,3]
+mylist1=['a','b','c']
+mylist2=[100,200,300]
+zip(mylist,mylist1,mylist2)
+for item in zip(mylist,mylist1):
+    print(item)
+
+
 
